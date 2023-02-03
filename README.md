@@ -4,7 +4,7 @@
 [Demo](https://manitejagpt3.netlify.app/)
 
 ## ScreenShot
-<img src='./src/assests/ScreenshotDemo.png' alt="screenshot" />
+<img src='./src/assets/ScreenshotDemo.png' alt="screenshot" />
 
 Tech Stack
 * React
